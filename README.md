@@ -1,4 +1,4 @@
-# 🩺 Smart Medical AI
+# MediAssist AI
 
 ## Smart Disease Prediction and Patient Support System
 
