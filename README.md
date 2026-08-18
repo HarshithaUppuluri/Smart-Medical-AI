@@ -2,7 +2,7 @@
 
 ## Smart Disease Prediction and Patient Support System
 
-CareLens Smart Medical AI is an educational AI-powered healthcare web application developed for IntelliGen. The system demonstrates how different Artificial Intelligence and Machine Learning techniques can be integrated into a single user-friendly application to support disease prediction and patient information.
+MediAssist AI is an educational AI-powered healthcare web application developed for IntelliGen. The system demonstrates how different Artificial Intelligence and Machine Learning techniques can be integrated into a single user-friendly application to support disease prediction and patient information.
 
 The application is designed for **educational and demonstration purposes only** and is not intended to replace professional medical diagnosis or advice.
 
