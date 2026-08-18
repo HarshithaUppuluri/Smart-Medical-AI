@@ -1,7 +1,0 @@
-Classification – Predict diseases from user-entered symptoms.
-Natural Language Processing (NLP) – conversations between English.
-Deep Learning – Analyse uploaded medical images for preliminary recognition of visible conditions.
-Explainable AI (SHAP) – Explain why the disease prediction model made a particular prediction by highlighting the most influential features.
-Sentiment Analysis – Analyse user feedback and classify it as positive, neutral, or negative to assess user satisfaction.
-
-Project Title : Smart Disease Prediction and Patient Support System
